@@ -1,1 +1,1 @@
-http://dev-5pgg8n.finnix.dev
+http://dev-5pgg8n.finnix.dev/mobile
